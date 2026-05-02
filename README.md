@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
@@ -52,7 +43,7 @@
 * Reusable components
 * Clean UI with Tailwind
 
-🔗 https://yourreactapp.netlify.app
+🔗 [https://yourreactapp.netlify.app](https://siraaje-app.anouarhamidi2.workers.dev/)
 
 ---
 
