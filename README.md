@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ibrahim Hamidi</h1>
+<h3 align="center">Junior Front-End Developer | React & Tailwind CSS</h3>
 
-<!--
-**ibrahimkhalil66/ibrahimkhalil66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Passionate about building responsive & modern web interfaces <br/>
+  🚀 Always learning and improving my skills
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 I’m currently working on **React & Tailwind projects**
+* 🌱 I’m learning **advanced JavaScript & front-end best practices**
+* 🎯 Goal: Become a professional Fullstack Developer
+* ⚡ I love clean code and modern UI design
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+
+* Responsive personal portfolio
+* Built with HTML, CSS, JavaScript
+* Deployed online
+
+🔗 https://yourportfolio.netlify.app
+
+---
+
+### ⚛️ React App
+
+* Built with React
+* Reusable components
+* Clean UI with Tailwind
+
+🔗 https://yourreactapp.netlify.app
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:ibrahimhamidi1493@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/ibrahim-hamidi-6a6872332/">LinkedIn</a> •
+  <a href="https://yourportfolio.netlify.app">Portfolio</a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* React advanced concepts
+* Performance optimization
+* UI/UX best practices
+
+---
+
+## ⚡ Fun Fact
+
+I build, break, and improve — every single day 🚀
