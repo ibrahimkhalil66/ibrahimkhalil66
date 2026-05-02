@@ -43,7 +43,7 @@
 * Reusable components
 * Clean UI with Tailwind
 
-🔗 [https://yourreactapp.netlify.app](https://siraaje-app.anouarhamidi2.workers.dev/)
+🔗 [Siraaje.app](https://siraaje-app.anouarhamidi2.workers.dev/)
 
 ---
 
