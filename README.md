@@ -44,8 +44,8 @@
 * Clean UI with Tailwind
 
 
-<a href="https://siraaj-app.anouarhamidi2.workers.dev/" target="_blank">
-<p align="center">
+<a  align="center" href="https://siraaj-app.anouarhamidi2.workers.dev/" target="_blank">
+<p>
   <img src="./Siraaj_logo.svg" alt="Siraaj Logo" width="200" />
 </p>
 </a>
