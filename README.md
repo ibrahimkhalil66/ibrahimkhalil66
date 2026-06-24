@@ -43,10 +43,10 @@
 * Reusable components
 * Clean UI with Tailwind
 <p align="center">
-  <img src="./Siraaj_logo.svg" alt="Siraaj Logo" width="120" />
+  <img src="./Siraaj_logo.svg" alt="Siraaj Logo" width="200" />
 </p>
 
-🔗 [https://siraaj-app.anouarhamidi2.workers.dev/]
+🔗 https://siraaj-app.anouarhamidi2.workers.dev/
 
 
 
