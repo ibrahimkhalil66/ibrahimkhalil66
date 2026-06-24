@@ -42,11 +42,13 @@
 * Built with React
 * Reusable components
 * Clean UI with Tailwind
+
+
+<a href="https://siraaj-app.anouarhamidi2.workers.dev/" target="_blank">
 <p align="center">
   <img src="./Siraaj_logo.svg" alt="Siraaj Logo" width="200" />
 </p>
-
-<a href="https://siraaj-app.anouarhamidi2.workers.dev/">🔗 Siraaj Link</a>
+</a>
 
  
 
