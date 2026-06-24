@@ -39,20 +39,20 @@
 
 ### ⚛️ Siraaj App
 
-* Built with React
-* Reusable components
-* Clean UI with Tailwind
+* Built with React & Tailwind CSS
+* Reusable and scalable components
+* Modern and responsive UI
+* Platform connecting employers and job seekers
 
-
-<a  align="center" href="https://siraaj-app.anouarhamidi2.workers.dev/" target="_blank">
-<p>
-  <img src="./Siraaj_logo.svg" alt="Siraaj Logo" width="200" />
+<p align="center">
+  <a href="https://siraaj-app.anouarhamidi2.workers.dev/" target="_blank">
+    <img src="./Siraaj_logo.svg" alt="Siraaj App" width="180" />
+  </a>
 </p>
-</a>
 
- 
-
-
+<p align="center">
+  👆 Click the logo to visit the live application
+</p>
 
 ---
 
