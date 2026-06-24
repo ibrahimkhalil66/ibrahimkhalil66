@@ -46,7 +46,9 @@
   <img src="./Siraaj_logo.svg" alt="Siraaj Logo" width="200" />
 </p>
 
-🔗 https://siraaj-app.anouarhamidi2.workers.dev/
+<a href="https://siraaj-app.anouarhamidi2.workers.dev/">🔗 Siraaj Link</a>
+
+ 
 
 
 
